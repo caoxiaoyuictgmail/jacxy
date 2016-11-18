@@ -1,0 +1,17 @@
+package practiceEveryDay;
+
+import java.util.Scanner;
+
+public class YiHuoYunSuan {
+	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in);
+		System.out.println("Please input the first number");
+		long a = scan.nextLong();
+		System.out.println("Please input the second number");
+		long b = scan.nextLong();
+		
+		a = a^b;
+		b = b^a;
+		a = a^b;
+	}
+}

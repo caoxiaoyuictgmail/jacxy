@@ -1,0 +1,12 @@
+package practiceEveryDay;
+
+import java.util.Scanner;
+
+public class PanDuanJiOu {
+	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in);
+		System.out.print("Judege one number is ji or ou, please enter the number!");
+		long tmp = scan.nextLong();
+		
+	}
+}

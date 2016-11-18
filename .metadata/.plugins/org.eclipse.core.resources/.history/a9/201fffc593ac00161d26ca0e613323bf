@@ -1,0 +1,13 @@
+package practiceEveryDay;
+
+public class ShuZhiXZhuanHuan {
+	public static void main(String[] args) {
+		byte a = (byte) 555;
+		System.out.println(a);
+		
+		
+		//run year suanfa
+		
+		
+	}
+}

@@ -1,0 +1,11 @@
+package practiceEveryDay;
+
+import java.util.Scanner;
+
+public class YiHuoYunSuan {
+	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in);
+		System.out.println("Please input the first number");
+		long a = scan.nextLong();
+	}
+}

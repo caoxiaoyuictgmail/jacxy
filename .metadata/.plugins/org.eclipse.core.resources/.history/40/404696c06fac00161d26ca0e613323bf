@@ -1,0 +1,40 @@
+package practiceEveryDay;
+
+public class Day_1 {
+	
+	public static void main(String[] args) {
+		System.out.println("Good hunter, welcome to this world !");
+		
+		
+		//标识符 由字母，数字，下划线和美元符号$组成，第一个字符不能为数字，并且标识符区别大小写
+		
+		//8种基本数据类型，6种数值类型，另外两种是字符类型和布尔类型，其中整数类型有4种(byte, short, int, long)，2种是浮点类型(float, double)
+		 byte a = 1;
+		 System.out.println(a);
+	
+		 short b = 2000;
+		 
+		 int c = 2000000;
+		 
+		 long d =  10000000L;
+		 
+		 System.out.println("the byte a is:" + a + ", and the short b is:" + b + ", and the int c is:" + c + ", and the long d is:" + d);
+		 
+		 System.out.println("the two type of Integer sum is:" + (a+b+c+d));
+		 
+		 long a1, a2, a3, a4;
+		 
+		 float b1 = 3.12f;
+		 
+		 double b2 = 21.5;
+		 
+		 System.out.println("The float b1 is:" + b1 + ", and the double b2 is:" + b2);
+		 
+		 char c1 = 'a';
+		 
+		 char x = 97;
+		
+		 
+	}
+	
+}

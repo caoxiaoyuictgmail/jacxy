@@ -1,0 +1,9 @@
+package practiceEveryDay;
+
+import java.util.Scanner;
+
+public class PanDuanJiOu {
+	public static void main(String[] args) {
+		Scanner scan = new Sacnner(System.in);
+	}
+}

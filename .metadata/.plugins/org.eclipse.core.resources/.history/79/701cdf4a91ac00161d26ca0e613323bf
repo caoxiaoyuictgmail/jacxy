@@ -1,0 +1,7 @@
+package practiceEveryDay;
+
+public class ShuZhiXZhuanHuan {
+	public static void main(String[] args) {
+		byte a = (byte) 555;
+	}
+}
